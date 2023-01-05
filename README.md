@@ -6,13 +6,13 @@ This script is time saving if you have a lot of pending follow requests because 
 
 ## How to use the script
 
-### 1 Copy pending_follow_requests.html to the script's folder
+### 1: Copy pending_follow_requests.html to the script's folder
 Download your instagram data and copy pending_follow_requests.html to the script's folder, you will find it in followers_and_following folder
 
-### 2 Install requirements
+### 2: Install requirements
 pip install -r /requirements.txt
 
-### 3 Update your login info in logininfo.py
+### 3: Update your login info in logininfo.py
 
-### 4 Run the script
+### 4: Run the script
 python Main.py
